@@ -11,7 +11,10 @@
     "url": "git+https://github.com/EdnilsonRobert/clockwork-grid.git"
   },
   "keywords": [
-    "clockwork", "css", "grid", "system"
+    "clockwork",
+    "css",
+    "grid",
+    "system"
   ],
   "author": "EdnilsonRobert",
   "license": "MIT",
@@ -23,7 +26,7 @@
     "browser-sync": "^2.26.7",
     "gulp": "^4.0.2",
     "gulp-notify": "^3.2.0",
-    "gulp-rename": "^1.4.0",
+    "gulp-rename": "^2.0.0",
     "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^2.6.5"
   }
